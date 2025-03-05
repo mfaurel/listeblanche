@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><ListeBlancheMSSante xmlns="https://listeblanche.mssante.fr/schema">
+    <DateDeGeneration>2025-02-28T15:42:07Z</DateDeGeneration>
+    <ListeDomaines>
+        <Domaine>
+            <Nom>1001-services.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté SAAD 1001-SERVICES.COM</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10 61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10 61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2024-06-07T10:24:42Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>123toulouseservices.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté SAAD 123 TOULOUSE SERVICES</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10 61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10 61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2024-06-07T10:24:42Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>15-20.mssante.fr</Nom>
+            <Description>Domaine MSSanté du 15-20</Description>
+            <DNCertificatOperateur>CN=mss.enovacom.fr,OU=344368557300034,O=ENOVACOM,ST=Bouches-du-Rhône (13),C=FR</DNCertificatOperateur>
+            <ResponsableContact>04 86 87 00 00, managedservices.team@enovacom.com</ResponsableContact>
+            <SupportContact>04 86 87 00 00, managedservices.team@enovacom.com</SupportContact>
+            <DateMAJ>2025-01-22T11:32:50Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>15-20.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté géré par le GRADeS SESAN pour le 15-20</Description>
+            <DNCertificatOperateur>CN=smtp-1.sesan.santnet.com,OU=1750048886,O=GIP SESAN,ST=Paris (75),C=FR</DNCertificatOperateur>
+            <ResponsableContact>0659754478, mssante-socle@sesan.fr</ResponsableContact>
+            <SupportContact>01 84 79 08 29, mssante-socle@sesan.fr</SupportContact>
+            <DateMAJ>2025-01-27T15:49:34Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>15-20.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté géré par le GRADeS SESAN pour le 15-20</Description>
+            <DNCertificatOperateur>CN=smtp-2.sesan.santnet.com,OU=1750048886,O=GIP SESAN,ST=Paris (75),C=FR</DNCertificatOperateur>
+            <ResponsableContact>0659754478, mssante-socle@sesan.fr</ResponsableContact>
+            <SupportContact>01 84 79 08 29, mssante-socle@sesan.fr</SupportContact>
+            <DateMAJ>2025-01-27T15:49:34Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>15-20.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté géré par le GRADeS SESAN pour le 15-20</Description>
+            <DNCertificatOperateur>CN=smtp-1.sante.santnet.com,OU=341459958900028,O=DEDALUS HEALTHCARE FRANCE,ST=Gironde (33),C=FR</DNCertificatOperateur>
+            <ResponsableContact>0659754478, mssante-socle@sesan.fr</ResponsableContact>
+            <SupportContact>01 84 79 08 29, mssante-socle@sesan.fr</SupportContact>
+            <DateMAJ>2025-01-27T15:49:34Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>15-20.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté géré par le GRADeS SESAN pour le 15-20</Description>
+            <DNCertificatOperateur>CN=smtp-2.sante.santnet.com,OU=341459958900028,O=DEDALUS HEALTHCARE FRANCE,ST=Gironde (33),C=FR</DNCertificatOperateur>
+            <ResponsableContact>0659754478, mssante-socle@sesan.fr</ResponsableContact>
+            <SupportContact>01 84 79 08 29, mssante-socle@sesan.fr</SupportContact>
+            <DateMAJ>2025-01-27T15:49:34Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>2apa.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté pour l'Association 2 APA</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10  61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10  61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2023-11-15T15:56:32Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>2isa.mssante.fr</Nom>
+            <Description>2iSA</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10  61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10  61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2024-08-12T10:14:19Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>3asm.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté 3 ASM</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10 61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10 61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2024-07-25T10:43:12Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>3c-ccconcorde.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté du GCS CCConcorde</Description>
+            <DNCertificatOperateur>CN=smtp-1.sante.santnet.com,OU=341459958900028,O=DEDALUS HEALTHCARE FRANCE,ST=Gironde (33),C=FR</DNCertificatOperateur>
+            <ResponsableContact>06 25 12 24 93, nicolas.lemaire@dedalus.com</ResponsableContact>
+            <SupportContact>06 25 12 24 93, nicolas.lemaire@dedalus.com</SupportContact>
+            <DateMAJ>2023-07-31T19:14:02Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>3c-ccconcorde.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté du GCS CCConcorde</Description>
+            <DNCertificatOperateur>CN=smtp-2.sante.santnet.com,OU=341459958900028,O=DEDALUS HEALTHCARE FRANCE,ST=Gironde (33),C=FR</DNCertificatOperateur>
+            <ResponsableContact>06 25 12 24 93, nicolas.lemaire@dedalus.com</ResponsableContact>
+            <SupportContact>06 25 12 24 93, nicolas.lemaire@dedalus.com</SupportContact>
+            <DateMAJ>2023-04-17T12:34:56Z</DateMAJ>
+        </Domaine>
+        <Domaine>
+            <Nom>3forets.mssante.fr</Nom>
+            <Description>Domaine de messagerie MSSanté SAD 3 Forêts</Description>
+            <DNCertificatOperateur>CN=medimail-asip.mipih.fr,OU=318310021300028,O=GIP MIPIH,ST=Haute-Garonne (31),C=FR</DNCertificatOperateur>
+            <ResponsableContact>08 10 61 50 50, medimail.diffusion@mipih.fr</ResponsableContact>
+            <SupportContact>08 10 61 50 50, medimail.technique@mipih.fr</SupportContact>
+            <DateMAJ>2024-07-10T15:57:46Z</DateMAJ>
+        </Domaine>
+    </ListeDomaines>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>JZO4I3vo9nf8Pl6G2h0ecqHNng8EKEfNjoMa6kQ3NyQ=</DigestValue></Reference></SignedInfo><SignatureValue>SjYpc4O/vZIckydJa7R87N7OItalVdc/8cVc6OF0LSraleStBUcIS8dP6694xSKsDCkUn/77d8GC&#13;
+xISEEeJj6Nper7xtkvpGEoC3EU2oR04aZjsf2LhGDjPNbOPOnjMqsEE+M7c4Rg5W6BHcgiHlxTKa&#13;
+APZ7QX4znNYTsnx8IbbBzLPHsD6jWBg4mzRffkJKoLi1OLc1xIWgvYl9xcfovPjFQGjxJaFD6oSJ&#13;
+8nNyTbxRbVX9r/RApeyxX+8yEcT7yhkRWNeeWhgl+hZReF9iDdM09e3bsWiK1ayzxqSX6x+iJpCV&#13;
+Po2Ue9MFzE4sq1R4aiego8br/7I6f9dntjKu1w==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIIXTCCBkWgAwIBAgIQeXh8Ja954WKAfjMRDgj6czANBgkqhkiG9w0BAQsFADCBgDELMAkGA1UE&#13;
+BhMCRlIxEzARBgNVBAoMCkFTSVAtU0FOVEUxFzAVBgNVBAsMDjAwMDIgMTg3NTEyNzUxMRIwEAYD&#13;
+VQQLDAlJR0MtU0FOVEUxLzAtBgNVBAMMJkFDIElHQy1TQU5URSBFTEVNRU5UQUlSRSBPUkdBTklT&#13;
+QVRJT05TMB4XDTIzMDgyMzEzNTQyM1oXDTI2MDgyMzEzNTQyM1owgYYxCzAJBgNVBAYTAkZSMRww&#13;
+GgYDVQQIDBNIYXV0cy1kZS1TZWluZSAoOTIpMSYwJAYDVQQKDB1DQVBHRU1JTkkgVEVDSE5PTE9H&#13;
+WSBTRVJWSUNFUzEYMBYGA1UECwwPMzQ3OTc2Njg0MjAwNzI0MRcwFQYDVQQDDA5hbGIubXNzYW50&#13;
+ZS5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMXNXLUo1FzEmeZEeuP4lqwrrfMp&#13;
+58vGIB7Hm8AMFg14BiKbTxXx7egE7X8TwngWemrH64X5CYfHOA9gmjpSKQ+07vpo9rqS/SANfytM&#13;
+ue/MSANDf0ND3Za0P1H1KrbJgSVMosq8yHNicma6SLuesGMD24QwAu4U40Bim7+rg+XT6szMEI9e&#13;
+4VhgeJk6c50YG0ysS6M4Gf5yWMEe+FKGjdtPN26/2b2r7qVe5pb/AjoTqchoyQWp1/MkKVpirXRt&#13;
+4vF9CdmscmtzGVQFM58kd0fGJ7uZ98AaMZeM3OmLRC2sDQTX1RURiVWPegAqmKq3I9Vsma3ylkm4&#13;
+SI2HZx5ffBkCAwEAAaOCA8kwggPFMBMGA1UdJQQMMAoGCCsGAQUFBwMEMB8GA1UdIwQYMBaAFNf7&#13;
++tzVAn/nwVOGTUvopEoeC7tjMHUGCCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL29j&#13;
+c3AuZXNhbnRlLmdvdXYuZnIwPQYIKwYBBQUHMAKGMWh0dHA6Ly9pZ2Mtc2FudGUuZXNhbnRlLmdv&#13;
+dXYuZnIvQUMvQUNJLUVMLU9SRy5jZXIwTAYDVR0gBEUwQzBBBg0qgXoBgVUBBwEBAgMBMDAwLgYI&#13;
+KwYBBQUHAgEWImh0dHA6Ly9pZ2Mtc2FudGUuZXNhbnRlLmdvdXYuZnIvUEMwKwYDVR0QBCQwIoAP&#13;
+MjAyMzA4MjMxMzU0MjNagQ8yMDI2MDgyMzEzNTQyM1owggE5BgNVHR8EggEwMIIBLDA4oDagNIYy&#13;
+aHR0cDovL2lnYy1zYW50ZS5lc2FudGUuZ291di5mci9DUkwvQUNJLUVMLU9SRy5jcmwwge+ggeyg&#13;
+gemGgeZsZGFwOi8vYW5udWFpcmUtaWdjLmVzYW50ZS5nb3V2LmZyL2NuPUFDJTIwSUdDLVNBTlRF&#13;
+JTIwRUxFTUVOVEFJUkUlMjBPUkdBTklTQVRJT05TLG91PUFDJTIwUkFDSU5FJTIwSUdDLVNBTlRF&#13;
+JTIwRUxFTUVOVEFJUkUsb3U9SUdDLVNBTlRFLG91PTAwMDIlMjAxODc1MTI3NTEsbz1BU0lQLVNB&#13;
+TlRFLGM9RlI/Y2VydGlmaWNhdGVyZXZvY2F0aW9ubGlzdDtiaW5hcnk/YmFzZT9vYmplY3RDbGFz&#13;
+cz1wa2lDQTAdBgNVHQ4EFgQU1+N9ZVp9JAvBRahPRX7FmI8+318wgfcGA1UdLgSB7zCB7DCB6aCB&#13;
+5qCB44aB4GxkYXA6Ly9hbm51YWlyZS1pZ2MuZXNhbnRlLmdvdXYuZnIvY249QUMlMjBJR0MtU0FO&#13;
+VEUlMjBFTEVNRU5UQUlSRSUyME9SR0FOSVNBVElPTlMsb3U9QUMlMjBSQUNJTkUlMjBJR0MtU0FO&#13;
+VEUlMjBFTEVNRU5UQUlSRSxvdT1JR0MtU0FOVEUsb3U9MDAwMiUyMDE4NzUxMjc1MSxvPUFTSVAt&#13;
+U0FOVEUsYz1GUj9kZWx0YXJldm9jYXRpb25saXN0O2JpbmFyeT9iYXNlP29iamVjdENsYXNzPXBr&#13;
+aUNBMA4GA1UdDwEB/wQEAwIGwDAPBggqgXoBRwECBQQDBAEDMBkGA1UdEQQSMBCBDmFsYkBtc3Nh&#13;
+bnRlLmZyMAkGA1UdEwQCMAAwDQYJKoZIhvcNAQELBQADggIBABFcWzkhkWU0giu+6+N+WAfqbsEw&#13;
+rdq9jeJt6Q5MVgxSfT+mk7Rl6CRvaunGTRrScQes6oVX007WD7O9jy7u3xrnFB0hcM5ZrcUPa/VQ&#13;
+Tt3YXrZYctHaJD7PL2XhMGhUIDasKov0l+66HatG/CRTr3yX6H8kHl8Zagr7CAI8caVC105A/OuK&#13;
+g90NAJsKI50xkxQiYmB9ZoW9WLdz05hjupxB0nD4YcmYz6tZGXfVdKDYbDKP53326Wf+n4TTXXJf&#13;
+XScc18JvlsnsNj/yO94c/2rgNYJEnB8nB3ZBmADeVqmyK8FQK6S/q2s4Gs6OBmnToW3bo3+GZ2vl&#13;
+Xz1SjTXNSQyFWoB4rkQOLB6PN3d9Jbw5OR4TwlENdj0G7yt5HOXdTEAL2R3kd9sA9sqvaOPzn7Vg&#13;
+cxsz09UCVCxAUd3y8vNTetiTYsHunB/Y8dXNwZ5n8TrWkCR+nGcXQcU0W4L+xjYDA0VPDBGrlf5e&#13;
+VQ2H3zt+SgVQANbzGQdFq+Uxvf3UbwZx3rbJWMrgxDJe6odGR1NDI11UTwGTQ099qsUhKUKidMvO&#13;
+iLiM9np7PdAbZX0hJvxqZ8xwlBKPmCt41sVsOzoIeRPnVeti2iYxrtrlcDjv4Q/F0GCmNvllz4Fg&#13;
+L5aEY9zBxn5vMwgc6/nCk+SKBxXSW8WQ9WhHphlqKJskt45P</X509Certificate></X509Data></KeyInfo></Signature></ListeBlancheMSSante>
